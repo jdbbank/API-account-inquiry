@@ -199,10 +199,7 @@ ISO 8601 format with timezone offset:
   "transactionId": "5461564515456123",
   "data": {
     "avl_Balance": 50000.00,
-    "current_Balance": 100000.00,
-    "cardStatus": "ACTIVE",
-    "currency": "THB",
-    "lastUpdated": "2026-06-23T15:30:47Z"
+    "current_Balance": 100000.00
   }
 }
 ```
